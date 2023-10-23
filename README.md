@@ -1,8 +1,22 @@
 - 👋 Hi, I’m @anyaaa1924(urf ANANYA BHAT{with a single t})
-- 👀 I’m interested in life!food!skincare! and obviously coding!...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+-
+name = "Ananya"
+- 👀 interests = ["skincare", "coding", "cooking", "speaking", "painting"]
+message = "Hi there! I'm Ananya, and I'm passionate about skincare, coding, cooking, speaking, and I absolutely love painting. 🌼🎨 Let's get creative together!"
+
+print(f"My name is {Ananya}.")
+print("Hi!")
+print("I'm interested in: skincare, coding, speaking, cooking and painting")
+for interest in interests:
+    print(f"- {interest}")
+print("Hi there! I'm Ananya, and I'm passionate about skincare, coding, cooking, speaking, and I absolutely love painting. 🌼🎨 Let's get creative together!")
+- 📫 How to reach me :
+- E-mail: anyaaaa10103@gmail.com
+  
+
+
+
+
 
 <!---
 anyaaa1924/anyaaa1924 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
