@@ -8,7 +8,7 @@ printf("My name is {Ananya}.")
 print("Hi!")
 print("I'm interested in: skincare, coding, speaking, cooking and painting")
 for interest in interests:
-    print(f"- {interest}")
+    printf("- {interest}")
 print("Hi there! I'm Ananya, and I'm passionate about skincare, coding, cooking, speaking, and I absolutely love painting. 🌼🎨 Let's get creative together!")
 - 📫 How to reach me :
 - E-mail: anyaaaa10103@gmail.com
