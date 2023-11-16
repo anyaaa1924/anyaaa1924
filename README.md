@@ -4,7 +4,7 @@ name = "Ananya"
 - 👀 interests = ["skincare", "coding", "cooking", "speaking", "painting"]
 message = "Hi there! I'm Ananya, and I'm passionate about skincare, coding, cooking, speaking, and I absolutely love painting. 🌼🎨 Let's get creative together!"
 
-print(f"My name is {Ananya}.")
+printf("My name is {Ananya}.")
 print("Hi!")
 print("I'm interested in: skincare, coding, speaking, cooking and painting")
 for interest in interests:
